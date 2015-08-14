@@ -1,0 +1,9 @@
+there is two way you can run my shiny application in your local machine
+
+One:-
+1.   download ui.R ,server.R and consumtion.csv from github to your local machine in a folder
+2.   type runApp("path of folder of dowloaded files" )  in R studio or R console
+
+second:-
+visit   https://chhavi.shinyapps.io/Shiny   in your browser
+
